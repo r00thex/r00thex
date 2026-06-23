@@ -1,5 +1,13 @@
 <h2>Hey 👋, I'm <a Root_hex="https://roothex.me/">Root_hex</a></h2>
-<p>I'm root</p>
+<p>👩‍💻 I'm currently working on cyber security tools
+
+💬 Ask me about... Nothing 😑
+
+📫 How to reach me...Click on the Facebook
+
+😄 Pronouns...Us bhai us
+
+⚡️ Fun fact... YOU ARE A TEENAGER 😺</p>
 <p><a href="telegram"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
