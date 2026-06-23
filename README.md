@@ -16,7 +16,6 @@
 <li>🔭 I’m currently working on <a href="https://github.com/r00thex/">Cirrus</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/r00thex/">Github</a>.</li>
-<li>📝 I <del>regularly</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
 </ul></p>
 <h2>🚀 Some Tools I Use</h2>
@@ -48,4 +47,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="" alt="Telegram">https://t.me/roothexc</a></p>
+<p><a>
+</a></p>
