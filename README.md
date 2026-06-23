@@ -7,6 +7,8 @@
 
 😄 Pronouns...Us bhai us
 
+👨‍🏫 addmin of TEAM BD DARK FORCE 😁 
+
 ⚡️ Fun fact... YOU ARE A TEENAGER 😺</p>
 <p><a href="telegram"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
