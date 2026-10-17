@@ -1,10 +1,3 @@
-![Static Badge](https://img.shields.io/badge/%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85%20Condor2026%20%E2%80%93%20Threat%20Investigator%20%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85-red)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivate%5D;Nebula+%5BPublic%5D;Anonymity+as+a+shield" alt="Typing animation" />
-</p>
-
-![Condor2026](268162817.jpeg)
 
 > *"Knowing the enemy is the first step to defending yourself."*
 
