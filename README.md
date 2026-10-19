@@ -158,4 +158,3 @@ This section provides direct access to all publicly available intelligence repor
 | 20 | **Dead Man's Switch** | Digital will with a contingency mechanism for the release of critical intelligence. | [→ Repo](https://github.com/Condor2026/Dead-Man-s-Switch) |
 | 21 | **Informe Final de Temporada 2026** | Synthesis of 27 public dossiers (feb–sep 2026). Sistema Andrómeda: 9,283 events processed. | [→ Repo](https://github.com/Condor2026/Informe-TEMPORADA-FINAL-VERANO) |
 | 22 | **Diabolic Italia** | Passive and analytical OSINT platform monitoring 70+ Italian digital newspapers for criminal pattern detection. | [→ Repo](https://github.com/Condor2026/Diabolic_It) |
-| 23 | **Diabolic Peninsular** | OSINT platform analyzing 60+ Spanish mainland newspapers to detect criminal patterns. | [→ Repo](https://github.com
